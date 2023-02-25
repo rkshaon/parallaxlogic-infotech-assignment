@@ -5,3 +5,4 @@ markdown
 django-filter
 djangorestframework-simplejwt
 PyJWT
+psycopg2-binary
