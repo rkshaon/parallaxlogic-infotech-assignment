@@ -3,3 +3,5 @@ Pillow
 djangorestframework
 markdown
 django-filter
+djangorestframework-simplejwt
+PyJWT
