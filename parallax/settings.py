@@ -150,3 +150,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 # Append Slash
 APPEND_SLASH = True
+
+# User Model
+AUTH_USER_MODEL = 'user_api.CustomUser'
